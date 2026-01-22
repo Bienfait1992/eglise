@@ -36,7 +36,7 @@ export default function CollegePastoral() {
         />
 
         <PastorCard
-          image="/images/images (2).jpg"
+          image="src/assets/images/images (2).jpg"
           name="Pasteur Ruth M."
           role="Responsable évangélisation"
         />
